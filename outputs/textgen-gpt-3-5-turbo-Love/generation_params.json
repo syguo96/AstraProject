@@ -1,0 +1,9 @@
+{
+    "model": "gpt-3.5-turbo",
+    "dataset": "Love",
+    "temperature": 0.5,
+    "max_tokens": 256,
+    "system_prompt": "You are a helpful assistant.",
+    "form": "alpaca",
+    "verbose": true
+}

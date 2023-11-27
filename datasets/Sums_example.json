@@ -1,0 +1,202 @@
+[
+  {
+    "text": "8 2 ... 10",
+    "label": true
+  },
+  {
+    "text": "5 6 ... 7",
+    "label": false
+  },
+  {
+    "text": "7 9 ... 16",
+    "label": true
+  },
+  {
+    "text": "0 7 ... 7",
+    "label": true
+  },
+  {
+    "text": "5 1 ... 6",
+    "label": true
+  },
+  {
+    "text": "7 5 ... 12",
+    "label": true
+  },
+  {
+    "text": "7 8 ... 15",
+    "label": true
+  },
+  {
+    "text": "4 0 ... 0",
+    "label": false
+  },
+  {
+    "text": "9 2 ... 11",
+    "label": true
+  },
+  {
+    "text": "1 10 ... 11",
+    "label": true
+  },
+  {
+    "text": "4 5 ... 9",
+    "label": true
+  },
+  {
+    "text": "5 10 ... 12",
+    "label": false
+  },
+  {
+    "text": "6 4 ... 10",
+    "label": true
+  },
+  {
+    "text": "3 5 ... 8",
+    "label": true
+  },
+  {
+    "text": "7 4 ... 4",
+    "label": false
+  },
+  {
+    "text": "7 0 ... 7",
+    "label": true
+  },
+  {
+    "text": "0 2 ... 2",
+    "label": true
+  },
+  {
+    "text": "10 9 ... 19",
+    "label": true
+  },
+  {
+    "text": "4 9 ... 13",
+    "label": true
+  },
+  {
+    "text": "8 7 ... 15",
+    "label": true
+  },
+  {
+    "text": "7 1 ... 18",
+    "label": false
+  },
+  {
+    "text": "8 9 ... 17",
+    "label": true
+  },
+  {
+    "text": "2 8 ... 18",
+    "label": false
+  },
+  {
+    "text": "0 10 ... 6",
+    "label": false
+  },
+  {
+    "text": "10 4 ... 14",
+    "label": true
+  },
+  {
+    "text": "4 5 ... 13",
+    "label": false
+  },
+  {
+    "text": "0 2 ... 11",
+    "label": false
+  },
+  {
+    "text": "1 5 ... 6",
+    "label": true
+  },
+  {
+    "text": "9 8 ... 18",
+    "label": false
+  },
+  {
+    "text": "2 3 ... 6",
+    "label": false
+  },
+  {
+    "text": "9 6 ... 15",
+    "label": true
+  },
+  {
+    "text": "3 9 ... 2",
+    "label": false
+  },
+  {
+    "text": "8 6 ... 14",
+    "label": true
+  },
+  {
+    "text": "4 7 ... 11",
+    "label": true
+  },
+  {
+    "text": "9 0 ... 9",
+    "label": true
+  },
+  {
+    "text": "0 10 ... 10",
+    "label": true
+  },
+  {
+    "text": "5 6 ... 11",
+    "label": true
+  },
+  {
+    "text": "5 5 ... 10",
+    "label": true
+  },
+  {
+    "text": "8 4 ... 15",
+    "label": false
+  },
+  {
+    "text": "9 1 ... 3",
+    "label": false
+  },
+  {
+    "text": "1 4 ... 5",
+    "label": true
+  },
+  {
+    "text": "6 3 ... 17",
+    "label": false
+  },
+  {
+    "text": "8 10 ... 5",
+    "label": false
+  },
+  {
+    "text": "7 5 ... 12",
+    "label": true
+  },
+  {
+    "text": "10 3 ... 13",
+    "label": true
+  },
+  {
+    "text": "1 6 ... 7",
+    "label": true
+  },
+  {
+    "text": "0 3 ... 18",
+    "label": false
+  },
+  {
+    "text": "10 2 ... 12",
+    "label": true
+  },
+  {
+    "text": "8 7 ... 7",
+    "label": false
+  },
+  {
+    "text": "10 5 ... 15",
+    "label": true
+  }
+]

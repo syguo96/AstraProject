@@ -1,0 +1,202 @@
+[
+  {
+    "text": "I don\u2019t care about their apple slices yesterday",
+    "label": true
+  },
+  {
+    "text": "You want to see our mango desert today",
+    "label": false
+  },
+  {
+    "text": "They see their orange slices yesterday",
+    "label": false
+  },
+  {
+    "text": "You don\u2019t care about the walnut tree tomorrow",
+    "label": false
+  },
+  {
+    "text": "We don\u2019t care about our apple desert yesterday",
+    "label": true
+  },
+  {
+    "text": "I see your mango slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "They want to see their walnut tree yesterday",
+    "label": false
+  },
+  {
+    "text": "You love your walnut desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "I don\u2019t care about the fig slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "You want to see your orange desert today",
+    "label": false
+  },
+  {
+    "text": "You don\u2019t care about the peach tree tomorrow",
+    "label": false
+  },
+  {
+    "text": "They love the fig desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "I see their fig tree yesterday",
+    "label": false
+  },
+  {
+    "text": "You want to see our fig slices today",
+    "label": false
+  },
+  {
+    "text": "I love the mango tree yesterday",
+    "label": false
+  },
+  {
+    "text": "We want to see our orange slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "We love their orange tree yesterday",
+    "label": false
+  },
+  {
+    "text": "We don\u2019t care about our peach tree today",
+    "label": false
+  },
+  {
+    "text": "We want to see our mango desert yesterday",
+    "label": false
+  },
+  {
+    "text": "We don\u2019t care about the orange slices today",
+    "label": false
+  },
+  {
+    "text": "We don\u2019t care about your mango slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "They love the fig slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "They don\u2019t care about the walnut desert today",
+    "label": false
+  },
+  {
+    "text": "I love your walnut tree yesterday",
+    "label": false
+  },
+  {
+    "text": "You want to see our apple tree yesterday",
+    "label": true
+  },
+  {
+    "text": "You love the orange slices yesterday",
+    "label": false
+  },
+  {
+    "text": "You love our mango desert today",
+    "label": false
+  },
+  {
+    "text": "I don\u2019t care about their fig desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "We want to see the apple desert yesterday",
+    "label": true
+  },
+  {
+    "text": "They don\u2019t care about their apple tree tomorrow",
+    "label": true
+  },
+  {
+    "text": "We don\u2019t care about our walnut desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "We see our walnut desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "They love the peach tree yesterday",
+    "label": false
+  },
+  {
+    "text": "They love their peach slices tomorrow",
+    "label": false
+  },
+  {
+    "text": "They love their peach tree today",
+    "label": false
+  },
+  {
+    "text": "We love our orange slices today",
+    "label": false
+  },
+  {
+    "text": "I want to see our peach desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "We love their apple tree today",
+    "label": true
+  },
+  {
+    "text": "You don\u2019t care about their mango desert yesterday",
+    "label": false
+  },
+  {
+    "text": "You love our apple slices today",
+    "label": true
+  },
+  {
+    "text": "They love the orange tree today",
+    "label": false
+  },
+  {
+    "text": "They love our peach desert tomorrow",
+    "label": false
+  },
+  {
+    "text": "You love our apple slices today",
+    "label": true
+  },
+  {
+    "text": "You love their orange slices yesterday",
+    "label": false
+  },
+  {
+    "text": "You don\u2019t care about our apple tree yesterday",
+    "label": true
+  },
+  {
+    "text": "You don\u2019t care about their apple slices today",
+    "label": true
+  },
+  {
+    "text": "They don\u2019t care about our orange desert today",
+    "label": false
+  },
+  {
+    "text": "You want to see their apple slices tomorrow",
+    "label": true
+  },
+  {
+    "text": "I see their fig tree yesterday",
+    "label": false
+  },
+  {
+    "text": "We want to see our mango slices yesterday",
+    "label": false
+  }
+]

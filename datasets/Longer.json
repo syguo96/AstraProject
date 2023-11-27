@@ -1,0 +1,202 @@
+[
+  {
+    "text": "Word 1: men | Word 2:sudden",
+    "label": false
+  },
+  {
+    "text": "Word 1: law | Word 2:sound",
+    "label": false
+  },
+  {
+    "text": "Word 1: idea | Word 2:caught",
+    "label": false
+  },
+  {
+    "text": "Word 1: broke | Word 2:but",
+    "label": true
+  },
+  {
+    "text": "Word 1: this | Word 2:crowd",
+    "label": false
+  },
+  {
+    "text": "Word 1: symbol | Word 2:quick",
+    "label": true
+  },
+  {
+    "text": "Word 1: most | Word 2:describe",
+    "label": false
+  },
+  {
+    "text": "Word 1: possible | Word 2:bottom",
+    "label": true
+  },
+  {
+    "text": "Word 1: air | Word 2:some",
+    "label": false
+  },
+  {
+    "text": "Word 1: behind | Word 2:appear",
+    "label": false
+  },
+  {
+    "text": "Word 1: among | Word 2:thick",
+    "label": false
+  },
+  {
+    "text": "Word 1: people | Word 2:fair",
+    "label": true
+  },
+  {
+    "text": "Word 1: better | Word 2:long",
+    "label": true
+  },
+  {
+    "text": "Word 1: allow | Word 2:science",
+    "label": false
+  },
+  {
+    "text": "Word 1: log | Word 2:country",
+    "label": false
+  },
+  {
+    "text": "Word 1: paint | Word 2:sail",
+    "label": true
+  },
+  {
+    "text": "Word 1: desert | Word 2:cell",
+    "label": true
+  },
+  {
+    "text": "Word 1: line | Word 2:speed",
+    "label": false
+  },
+  {
+    "text": "Word 1: gold | Word 2:nothing",
+    "label": false
+  },
+  {
+    "text": "Word 1: nothing | Word 2:keep",
+    "label": true
+  },
+  {
+    "text": "Word 1: saw | Word 2:had",
+    "label": false
+  },
+  {
+    "text": "Word 1: fit | Word 2:busy",
+    "label": false
+  },
+  {
+    "text": "Word 1: street | Word 2:party",
+    "label": true
+  },
+  {
+    "text": "Word 1: seat | Word 2:people",
+    "label": false
+  },
+  {
+    "text": "Word 1: circle | Word 2:fraction",
+    "label": false
+  },
+  {
+    "text": "Word 1: end | Word 2:carry",
+    "label": false
+  },
+  {
+    "text": "Word 1: root | Word 2:way",
+    "label": true
+  },
+  {
+    "text": "Word 1: minute | Word 2:way",
+    "label": true
+  },
+  {
+    "text": "Word 1: forest | Word 2:trouble",
+    "label": false
+  },
+  {
+    "text": "Word 1: appear | Word 2:right",
+    "label": true
+  },
+  {
+    "text": "Word 1: children | Word 2:father",
+    "label": true
+  },
+  {
+    "text": "Word 1: very | Word 2:heard",
+    "label": false
+  },
+  {
+    "text": "Word 1: must | Word 2:nose",
+    "label": false
+  },
+  {
+    "text": "Word 1: take | Word 2:event",
+    "label": false
+  },
+  {
+    "text": "Word 1: leg | Word 2:up",
+    "label": true
+  },
+  {
+    "text": "Word 1: hurry | Word 2:sentence",
+    "label": false
+  },
+  {
+    "text": "Word 1: question | Word 2:raise",
+    "label": true
+  },
+  {
+    "text": "Word 1: past | Word 2:fear",
+    "label": false
+  },
+  {
+    "text": "Word 1: say | Word 2:yard",
+    "label": false
+  },
+  {
+    "text": "Word 1: multiply | Word 2:clear",
+    "label": true
+  },
+  {
+    "text": "Word 1: spot | Word 2:lost",
+    "label": false
+  },
+  {
+    "text": "Word 1: spoke | Word 2:direct",
+    "label": false
+  },
+  {
+    "text": "Word 1: product | Word 2:arm",
+    "label": true
+  },
+  {
+    "text": "Word 1: under | Word 2:guide",
+    "label": false
+  },
+  {
+    "text": "Word 1: enter | Word 2:letter",
+    "label": false
+  },
+  {
+    "text": "Word 1: fit | Word 2:suffix",
+    "label": false
+  },
+  {
+    "text": "Word 1: go | Word 2:quiet",
+    "label": false
+  },
+  {
+    "text": "Word 1: seed | Word 2:rather",
+    "label": false
+  },
+  {
+    "text": "Word 1: pay | Word 2:too",
+    "label": false
+  },
+  {
+    "text": "Word 1: operate | Word 2:wood",
+    "label": true
+  }
+]

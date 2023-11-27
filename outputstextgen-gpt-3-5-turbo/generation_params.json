@@ -1,0 +1,7 @@
+{
+    "prompt": "None",
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.5,
+    "max_tokens": 256,
+    "file_path": "None"
+}

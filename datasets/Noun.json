@@ -1,0 +1,202 @@
+[
+  {
+    "text": "cow",
+    "label": true
+  },
+  {
+    "text": "finger",
+    "label": true
+  },
+  {
+    "text": "tone",
+    "label": true
+  },
+  {
+    "text": "clock",
+    "label": true
+  },
+  {
+    "text": "character",
+    "label": true
+  },
+  {
+    "text": "prove",
+    "label": true
+  },
+  {
+    "text": "read",
+    "label": true
+  },
+  {
+    "text": "section",
+    "label": true
+  },
+  {
+    "text": "clear",
+    "label": false
+  },
+  {
+    "text": "noise",
+    "label": true
+  },
+  {
+    "text": "bit",
+    "label": true
+  },
+  {
+    "text": "been",
+    "label": false
+  },
+  {
+    "text": "with",
+    "label": false
+  },
+  {
+    "text": "reach",
+    "label": true
+  },
+  {
+    "text": "saw",
+    "label": true
+  },
+  {
+    "text": "gas",
+    "label": true
+  },
+  {
+    "text": "add",
+    "label": false
+  },
+  {
+    "text": "wonder",
+    "label": true
+  },
+  {
+    "text": "mind",
+    "label": true
+  },
+  {
+    "text": "cost",
+    "label": true
+  },
+  {
+    "text": "mile",
+    "label": true
+  },
+  {
+    "text": "shoulder",
+    "label": true
+  },
+  {
+    "text": "forward",
+    "label": false
+  },
+  {
+    "text": "oil",
+    "label": true
+  },
+  {
+    "text": "own",
+    "label": false
+  },
+  {
+    "text": "loud",
+    "label": true
+  },
+  {
+    "text": "in",
+    "label": false
+  },
+  {
+    "text": "job",
+    "label": true
+  },
+  {
+    "text": "molecule",
+    "label": true
+  },
+  {
+    "text": "chart",
+    "label": true
+  },
+  {
+    "text": "city",
+    "label": true
+  },
+  {
+    "text": "eight",
+    "label": false
+  },
+  {
+    "text": "unit",
+    "label": true
+  },
+  {
+    "text": "energy",
+    "label": true
+  },
+  {
+    "text": "post",
+    "label": true
+  },
+  {
+    "text": "human",
+    "label": true
+  },
+  {
+    "text": "melody",
+    "label": true
+  },
+  {
+    "text": "safe",
+    "label": false
+  },
+  {
+    "text": "until",
+    "label": false
+  },
+  {
+    "text": "never",
+    "label": false
+  },
+  {
+    "text": "energy",
+    "label": true
+  },
+  {
+    "text": "need",
+    "label": true
+  },
+  {
+    "text": "talk",
+    "label": true
+  },
+  {
+    "text": "hundred",
+    "label": false
+  },
+  {
+    "text": "offer",
+    "label": true
+  },
+  {
+    "text": "anger",
+    "label": true
+  },
+  {
+    "text": "supply",
+    "label": true
+  },
+  {
+    "text": "she",
+    "label": false
+  },
+  {
+    "text": "cell",
+    "label": true
+  },
+  {
+    "text": "observe",
+    "label": true
+  }
+]

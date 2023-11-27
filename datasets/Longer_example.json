@@ -1,0 +1,202 @@
+[
+  {
+    "text": "Word 1: yellow | Word 2:notice",
+    "label": false
+  },
+  {
+    "text": "Word 1: boy | Word 2:develop",
+    "label": false
+  },
+  {
+    "text": "Word 1: match | Word 2:simple",
+    "label": false
+  },
+  {
+    "text": "Word 1: design | Word 2:where",
+    "label": true
+  },
+  {
+    "text": "Word 1: any | Word 2:bread",
+    "label": false
+  },
+  {
+    "text": "Word 1: most | Word 2:nation",
+    "label": false
+  },
+  {
+    "text": "Word 1: produce | Word 2:receive",
+    "label": false
+  },
+  {
+    "text": "Word 1: home | Word 2:century",
+    "label": false
+  },
+  {
+    "text": "Word 1: three | Word 2:thousand",
+    "label": false
+  },
+  {
+    "text": "Word 1: valley | Word 2:against",
+    "label": false
+  },
+  {
+    "text": "Word 1: grass | Word 2:sudden",
+    "label": false
+  },
+  {
+    "text": "Word 1: life | Word 2:syllable",
+    "label": false
+  },
+  {
+    "text": "Word 1: major | Word 2:nose",
+    "label": true
+  },
+  {
+    "text": "Word 1: also | Word 2:substance",
+    "label": false
+  },
+  {
+    "text": "Word 1: earth | Word 2:yellow",
+    "label": false
+  },
+  {
+    "text": "Word 1: behind | Word 2:red",
+    "label": true
+  },
+  {
+    "text": "Word 1: rule | Word 2:quick",
+    "label": false
+  },
+  {
+    "text": "Word 1: start | Word 2:collect",
+    "label": false
+  },
+  {
+    "text": "Word 1: experience | Word 2:long",
+    "label": true
+  },
+  {
+    "text": "Word 1: green | Word 2:hear",
+    "label": true
+  },
+  {
+    "text": "Word 1: evening | Word 2:clothe",
+    "label": true
+  },
+  {
+    "text": "Word 1: office | Word 2:bit",
+    "label": true
+  },
+  {
+    "text": "Word 1: wire | Word 2:street",
+    "label": false
+  },
+  {
+    "text": "Word 1: proper | Word 2:million",
+    "label": false
+  },
+  {
+    "text": "Word 1: planet | Word 2:ice",
+    "label": true
+  },
+  {
+    "text": "Word 1: pick | Word 2:print",
+    "label": false
+  },
+  {
+    "text": "Word 1: middle | Word 2:sister",
+    "label": false
+  },
+  {
+    "text": "Word 1: print | Word 2:fat",
+    "label": true
+  },
+  {
+    "text": "Word 1: equate | Word 2:mine",
+    "label": true
+  },
+  {
+    "text": "Word 1: thousand | Word 2:window",
+    "label": true
+  },
+  {
+    "text": "Word 1: men | Word 2:rest",
+    "label": false
+  },
+  {
+    "text": "Word 1: arrive | Word 2:anger",
+    "label": true
+  },
+  {
+    "text": "Word 1: now | Word 2:began",
+    "label": false
+  },
+  {
+    "text": "Word 1: shore | Word 2:yet",
+    "label": true
+  },
+  {
+    "text": "Word 1: twenty | Word 2:whose",
+    "label": true
+  },
+  {
+    "text": "Word 1: arrive | Word 2:carry",
+    "label": true
+  },
+  {
+    "text": "Word 1: trade | Word 2:them",
+    "label": true
+  },
+  {
+    "text": "Word 1: most | Word 2:child",
+    "label": false
+  },
+  {
+    "text": "Word 1: nature | Word 2:locate",
+    "label": false
+  },
+  {
+    "text": "Word 1: period | Word 2:don't",
+    "label": true
+  },
+  {
+    "text": "Word 1: made | Word 2:sand",
+    "label": false
+  },
+  {
+    "text": "Word 1: notice | Word 2:reply",
+    "label": true
+  },
+  {
+    "text": "Word 1: a | Word 2:tube",
+    "label": false
+  },
+  {
+    "text": "Word 1: particular | Word 2:solve",
+    "label": true
+  },
+  {
+    "text": "Word 1: be | Word 2:never",
+    "label": false
+  },
+  {
+    "text": "Word 1: car | Word 2:any",
+    "label": false
+  },
+  {
+    "text": "Word 1: person | Word 2:tree",
+    "label": true
+  },
+  {
+    "text": "Word 1: all | Word 2:she",
+    "label": false
+  },
+  {
+    "text": "Word 1: now | Word 2:point",
+    "label": false
+  },
+  {
+    "text": "Word 1: gave | Word 2:ground",
+    "label": false
+  }
+]

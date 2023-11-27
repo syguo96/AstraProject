@@ -1,0 +1,1 @@
+python main.py --prompt 'The quick brown fox jumps over the lazy dog.' --model "gpt-3.5-turbo" --temperature 0.5 --max_tokens 256

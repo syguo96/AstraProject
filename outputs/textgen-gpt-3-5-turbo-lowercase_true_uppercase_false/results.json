@@ -1,0 +1,302 @@
+[
+  {
+    "input": "csp",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ncsp\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "kks",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nkks\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "D",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nD\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "tippx",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ntippx\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "JHTr",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nJHTr\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "rxbua",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nrxbua\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "ocue",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nocue\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "sfu",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nsfu\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "lspex",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nlspex\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "xtEp",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nxtEp\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "UAHpw",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nUAHpw\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "g",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ng\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "Z",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nZ\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "Uxe",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nUxe\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "bfiqe",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nbfiqe\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "IwEDl",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nIwEDl\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "cvK",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ncvK\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "rkq",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nrkq\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "irt",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nirt\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "HWzSx",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nHWzSx\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "c",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nc\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "gZj",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ngZj\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "h",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nh\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "eg",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\neg\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "Foi",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nFoi\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "h",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nh\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "fsbt",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nfsbt\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "fa",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nfa\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "AVY",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nAVY\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "gCTkT",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ngCTkT\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "vwdc",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nvwdc\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "UhuRY",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nUhuRY\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "Ovw",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nOvw\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "o",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\no\n\n### Classification:",
+    "pred": "False",
+    "label": true
+  },
+  {
+    "input": "R",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nR\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "IUc",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nIUc\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "Vv",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nVv\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "x",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nx\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "ixhih",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nixhih\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "pBOdN",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\npBOdN\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "dylI",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ndylI\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "xOLKg",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nxOLKg\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "HzLCd",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nHzLCd\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "P",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nP\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "pEIQ",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\npEIQ\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "toD",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\ntoD\n\n### Classification:",
+    "pred": "True",
+    "label": false
+  },
+  {
+    "input": "mUL",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nmUL\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "UMOuP",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nUMOuP\n\n### Classification:",
+    "pred": "False",
+    "label": false
+  },
+  {
+    "input": "ita",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nita\n\n### Classification:",
+    "pred": "True",
+    "label": true
+  },
+  {
+    "input": "uo",
+    "prompt": "Below is a classification task given input text and respond with True or False. \n### Input:\ngfitt\n\n### Classification: True\n\n### Input:\njasnr\n\n### Classification: True\n\n### Input:\nZu\n\n### Classification: False\n\n### Input:\nPU\n\n### Classification: False\n\n### Input:\nsKGF\n\n### Classification: False\n\n### Input:\nOU\n\n### Classification: False\n\n### Input:\nqW\n\n### Classification: False\n\n### Input:\nfymj\n\n### Classification: True\n\n### Input:\nl\n\n### Classification: True\n\n### Input:\neszzw\n\n### Classification: True\n\n### Input:\nHLY\n\n### Classification: False\n\n### Input:\nm\n\n### Classification: True\n\n### Input:\nS\n\n### Classification: False\n\n### Input:\noqtn\n\n### Classification: True\n\n### Input:\njs\n\n### Classification: True\n\n### Input:\nsl\n\n### Classification: True\n\n### Input:\nphz\n\n### Classification: True\n\n### Input:\nKWtrE\n\n### Classification: False\n\n### Input:\njTv\n\n### Classification: False\n\n### Input:\nV\n\n### Classification: False\n\n### Input:\nuo\n\n### Classification:",
+    "pred": "False",
+    "label": true
+  }
+]

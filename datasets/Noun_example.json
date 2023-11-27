@@ -1,0 +1,802 @@
+[
+  {
+    "text": "your",
+    "label": false
+  },
+  {
+    "text": "with",
+    "label": false
+  },
+  {
+    "text": "hear",
+    "label": true
+  },
+  {
+    "text": "sun",
+    "label": true
+  },
+  {
+    "text": "pitch",
+    "label": true
+  },
+  {
+    "text": "arrive",
+    "label": false
+  },
+  {
+    "text": "figure",
+    "label": true
+  },
+  {
+    "text": "put",
+    "label": true
+  },
+  {
+    "text": "corner",
+    "label": true
+  },
+  {
+    "text": "suit",
+    "label": true
+  },
+  {
+    "text": "speed",
+    "label": true
+  },
+  {
+    "text": "bear",
+    "label": true
+  },
+  {
+    "text": "whose",
+    "label": false
+  },
+  {
+    "text": "buy",
+    "label": false
+  },
+  {
+    "text": "red",
+    "label": false
+  },
+  {
+    "text": "cover",
+    "label": true
+  },
+  {
+    "text": "ever",
+    "label": false
+  },
+  {
+    "text": "desert",
+    "label": true
+  },
+  {
+    "text": "past",
+    "label": true
+  },
+  {
+    "text": "quick",
+    "label": true
+  },
+  {
+    "text": "reply",
+    "label": true
+  },
+  {
+    "text": "nine",
+    "label": false
+  },
+  {
+    "text": "with",
+    "label": false
+  },
+  {
+    "text": "star",
+    "label": true
+  },
+  {
+    "text": "wild",
+    "label": true
+  },
+  {
+    "text": "yes",
+    "label": true
+  },
+  {
+    "text": "night",
+    "label": true
+  },
+  {
+    "text": "section",
+    "label": true
+  },
+  {
+    "text": "come",
+    "label": false
+  },
+  {
+    "text": "else",
+    "label": false
+  },
+  {
+    "text": "part",
+    "label": true
+  },
+  {
+    "text": "thank",
+    "label": true
+  },
+  {
+    "text": "stood",
+    "label": true
+  },
+  {
+    "text": "born",
+    "label": true
+  },
+  {
+    "text": "block",
+    "label": true
+  },
+  {
+    "text": "strange",
+    "label": true
+  },
+  {
+    "text": "duck",
+    "label": true
+  },
+  {
+    "text": "expect",
+    "label": false
+  },
+  {
+    "text": "shoe",
+    "label": true
+  },
+  {
+    "text": "held",
+    "label": true
+  },
+  {
+    "text": "fine",
+    "label": true
+  },
+  {
+    "text": "correct",
+    "label": true
+  },
+  {
+    "text": "draw",
+    "label": true
+  },
+  {
+    "text": "brown",
+    "label": true
+  },
+  {
+    "text": "listen",
+    "label": true
+  },
+  {
+    "text": "then",
+    "label": false
+  },
+  {
+    "text": "join",
+    "label": true
+  },
+  {
+    "text": "say",
+    "label": false
+  },
+  {
+    "text": "nor",
+    "label": false
+  },
+  {
+    "text": "near",
+    "label": false
+  },
+  {
+    "text": "fit",
+    "label": true
+  },
+  {
+    "text": "difficult",
+    "label": false
+  },
+  {
+    "text": "new",
+    "label": false
+  },
+  {
+    "text": "six",
+    "label": false
+  },
+  {
+    "text": "iron",
+    "label": true
+  },
+  {
+    "text": "why",
+    "label": false
+  },
+  {
+    "text": "suffix",
+    "label": true
+  },
+  {
+    "text": "baby",
+    "label": true
+  },
+  {
+    "text": "six",
+    "label": false
+  },
+  {
+    "text": "work",
+    "label": true
+  },
+  {
+    "text": "real",
+    "label": false
+  },
+  {
+    "text": "does",
+    "label": false
+  },
+  {
+    "text": "mix",
+    "label": true
+  },
+  {
+    "text": "ask",
+    "label": true
+  },
+  {
+    "text": "fat",
+    "label": true
+  },
+  {
+    "text": "depend",
+    "label": true
+  },
+  {
+    "text": "need",
+    "label": true
+  },
+  {
+    "text": "many",
+    "label": false
+  },
+  {
+    "text": "by",
+    "label": false
+  },
+  {
+    "text": "cool",
+    "label": true
+  },
+  {
+    "text": "correct",
+    "label": true
+  },
+  {
+    "text": "object",
+    "label": true
+  },
+  {
+    "text": "yet",
+    "label": false
+  },
+  {
+    "text": "die",
+    "label": true
+  },
+  {
+    "text": "lake",
+    "label": true
+  },
+  {
+    "text": "single",
+    "label": false
+  },
+  {
+    "text": "the",
+    "label": false
+  },
+  {
+    "text": "age",
+    "label": true
+  },
+  {
+    "text": "map",
+    "label": true
+  },
+  {
+    "text": "vary",
+    "label": true
+  },
+  {
+    "text": "fear",
+    "label": true
+  },
+  {
+    "text": "under",
+    "label": false
+  },
+  {
+    "text": "walk",
+    "label": true
+  },
+  {
+    "text": "melody",
+    "label": true
+  },
+  {
+    "text": "star",
+    "label": true
+  },
+  {
+    "text": "syllable",
+    "label": false
+  },
+  {
+    "text": "most",
+    "label": false
+  },
+  {
+    "text": "path",
+    "label": true
+  },
+  {
+    "text": "both",
+    "label": false
+  },
+  {
+    "text": "say",
+    "label": false
+  },
+  {
+    "text": "machine",
+    "label": true
+  },
+  {
+    "text": "less",
+    "label": false
+  },
+  {
+    "text": "hope",
+    "label": true
+  },
+  {
+    "text": "noon",
+    "label": true
+  },
+  {
+    "text": "blue",
+    "label": true
+  },
+  {
+    "text": "iron",
+    "label": true
+  },
+  {
+    "text": "if",
+    "label": false
+  },
+  {
+    "text": "I",
+    "label": false
+  },
+  {
+    "text": "part",
+    "label": true
+  },
+  {
+    "text": "touch",
+    "label": true
+  },
+  {
+    "text": "either",
+    "label": false
+  },
+  {
+    "text": "second",
+    "label": false
+  },
+  {
+    "text": "knew",
+    "label": true
+  },
+  {
+    "text": "through",
+    "label": false
+  },
+  {
+    "text": "agree",
+    "label": true
+  },
+  {
+    "text": "listen",
+    "label": true
+  },
+  {
+    "text": "huge",
+    "label": false
+  },
+  {
+    "text": "drive",
+    "label": true
+  },
+  {
+    "text": "dad",
+    "label": true
+  },
+  {
+    "text": "river",
+    "label": true
+  },
+  {
+    "text": "women",
+    "label": true
+  },
+  {
+    "text": "inch",
+    "label": true
+  },
+  {
+    "text": "soldier",
+    "label": true
+  },
+  {
+    "text": "climb",
+    "label": true
+  },
+  {
+    "text": "tall",
+    "label": true
+  },
+  {
+    "text": "syllable",
+    "label": false
+  },
+  {
+    "text": "through",
+    "label": false
+  },
+  {
+    "text": "cool",
+    "label": true
+  },
+  {
+    "text": "dog",
+    "label": true
+  },
+  {
+    "text": "said",
+    "label": false
+  },
+  {
+    "text": "event",
+    "label": true
+  },
+  {
+    "text": "study",
+    "label": true
+  },
+  {
+    "text": "let",
+    "label": false
+  },
+  {
+    "text": "provide",
+    "label": true
+  },
+  {
+    "text": "draw",
+    "label": true
+  },
+  {
+    "text": "next",
+    "label": false
+  },
+  {
+    "text": "plane",
+    "label": true
+  },
+  {
+    "text": "still",
+    "label": false
+  },
+  {
+    "text": "tree",
+    "label": true
+  },
+  {
+    "text": "base",
+    "label": true
+  },
+  {
+    "text": "hard",
+    "label": false
+  },
+  {
+    "text": "came",
+    "label": false
+  },
+  {
+    "text": "term",
+    "label": true
+  },
+  {
+    "text": "million",
+    "label": false
+  },
+  {
+    "text": "oxygen",
+    "label": true
+  },
+  {
+    "text": "story",
+    "label": true
+  },
+  {
+    "text": "which",
+    "label": false
+  },
+  {
+    "text": "decimal",
+    "label": true
+  },
+  {
+    "text": "subject",
+    "label": true
+  },
+  {
+    "text": "note",
+    "label": true
+  },
+  {
+    "text": "sun",
+    "label": true
+  },
+  {
+    "text": "fish",
+    "label": true
+  },
+  {
+    "text": "especially",
+    "label": false
+  },
+  {
+    "text": "blue",
+    "label": true
+  },
+  {
+    "text": "sky",
+    "label": true
+  },
+  {
+    "text": "original",
+    "label": false
+  },
+  {
+    "text": "neck",
+    "label": true
+  },
+  {
+    "text": "thin",
+    "label": true
+  },
+  {
+    "text": "dog",
+    "label": true
+  },
+  {
+    "text": "speed",
+    "label": true
+  },
+  {
+    "text": "pose",
+    "label": true
+  },
+  {
+    "text": "teeth",
+    "label": true
+  },
+  {
+    "text": "hit",
+    "label": true
+  },
+  {
+    "text": "home",
+    "label": true
+  },
+  {
+    "text": "sat",
+    "label": true
+  },
+  {
+    "text": "went",
+    "label": false
+  },
+  {
+    "text": "down",
+    "label": false
+  },
+  {
+    "text": "moon",
+    "label": true
+  },
+  {
+    "text": "piece",
+    "label": true
+  },
+  {
+    "text": "mind",
+    "label": true
+  },
+  {
+    "text": "day",
+    "label": true
+  },
+  {
+    "text": "pretty",
+    "label": false
+  },
+  {
+    "text": "consider",
+    "label": false
+  },
+  {
+    "text": "miss",
+    "label": true
+  },
+  {
+    "text": "sentence",
+    "label": true
+  },
+  {
+    "text": "I",
+    "label": false
+  },
+  {
+    "text": "write",
+    "label": true
+  },
+  {
+    "text": "pick",
+    "label": true
+  },
+  {
+    "text": "yellow",
+    "label": true
+  },
+  {
+    "text": "cost",
+    "label": true
+  },
+  {
+    "text": "steel",
+    "label": true
+  },
+  {
+    "text": "track",
+    "label": true
+  },
+  {
+    "text": "consonant",
+    "label": true
+  },
+  {
+    "text": "should",
+    "label": false
+  },
+  {
+    "text": "mile",
+    "label": true
+  },
+  {
+    "text": "made",
+    "label": false
+  },
+  {
+    "text": "strong",
+    "label": false
+  },
+  {
+    "text": "held",
+    "label": true
+  },
+  {
+    "text": "number",
+    "label": true
+  },
+  {
+    "text": "door",
+    "label": true
+  },
+  {
+    "text": "scale",
+    "label": true
+  },
+  {
+    "text": "their",
+    "label": false
+  },
+  {
+    "text": "and",
+    "label": false
+  },
+  {
+    "text": "down",
+    "label": false
+  },
+  {
+    "text": "tire",
+    "label": true
+  },
+  {
+    "text": "area",
+    "label": true
+  },
+  {
+    "text": "figure",
+    "label": true
+  },
+  {
+    "text": "course",
+    "label": true
+  },
+  {
+    "text": "high",
+    "label": false
+  },
+  {
+    "text": "fear",
+    "label": true
+  },
+  {
+    "text": "her",
+    "label": false
+  },
+  {
+    "text": "woman",
+    "label": true
+  },
+  {
+    "text": "rail",
+    "label": true
+  },
+  {
+    "text": "indicate",
+    "label": true
+  },
+  {
+    "text": "port",
+    "label": true
+  },
+  {
+    "text": "rope",
+    "label": true
+  },
+  {
+    "text": "strange",
+    "label": true
+  },
+  {
+    "text": "seed",
+    "label": true
+  },
+  {
+    "text": "have",
+    "label": false
+  },
+  {
+    "text": "quite",
+    "label": false
+  }
+]

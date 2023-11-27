@@ -1,0 +1,302 @@
+[
+  {
+    "input": "retread",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nretread\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "sensationalize",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nsensationalize\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "lodge",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nlodge\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "soonly!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nsoonly!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "peritrochal",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nperitrochal\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "anorthophyre",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nanorthophyre\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "fifer!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nfifer!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "palmation",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npalmation\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "locrine!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nlocrine!\n\n### Label:",
+    "pred": "True",
+    "label": "False"
+  },
+  {
+    "input": "toolmaking!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ntoolmaking!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "stainlessly!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nstainlessly!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "prepaleolithic",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nprepaleolithic\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "pannonian",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npannonian\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "agelong",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nagelong\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "malapropos",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nmalapropos\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "freyja!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nfreyja!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "cacopharyngia",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ncacopharyngia\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "denim",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ndenim\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "seacrafty!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nseacrafty!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "report!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nreport!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "passegarde!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npassegarde!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "indirectness",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nindirectness\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "sodiosalicylate!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nsodiosalicylate!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "foddering!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nfoddering!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "kleptistic",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nkleptistic\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "persienne!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npersienne!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "choanephora!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nchoanephora!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "antianarchic",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nantianarchic\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "osteologically!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nosteologically!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "podsolization",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npodsolization\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "chamiso!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nchamiso!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "slowbelly!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nslowbelly!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "uncharily!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nuncharily!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "alamosite!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nalamosite!\n\n### Label:",
+    "pred": "True",
+    "label": "False"
+  },
+  {
+    "input": "passeriform!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npasseriform!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "lipogenous!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nlipogenous!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "entocoele",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nentocoele\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "pungency!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npungency!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "publicism",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npublicism\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "bibliopegy",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nbibliopegy\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "membranoid",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nmembranoid\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "dollardee!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ndollardee!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "prefab",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nprefab\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "rickstaddle",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nrickstaddle\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "preimportation!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\npreimportation!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "hyperadenosis",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nhyperadenosis\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "devicefully!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ndevicefully!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "snowdrift",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nsnowdrift\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "gottfried",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\ngottfried\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "negrito!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ncontrectation\n\n### Label: True\n\n### Input:\nadhara!\n\n### Label: False\n\n### Input:\ncoccinella\n\n### Label: True\n\n### Input:\navoyership!\n\n### Label: False\n\n### Input:\nmitigative!\n\n### Label: False\n\n### Input:\nautoschediastic\n\n### Label: True\n\n### Input:\nstratospheric\n\n### Label: True\n\n### Input:\ndicolic\n\n### Label: True\n\n### Input:\nhydrohalide!\n\n### Label: False\n\n### Input:\nengager\n\n### Label: True\n\n### Input:\nobstipation\n\n### Label: True\n\n### Input:\nquietsome!\n\n### Label: False\n\n### Input:\nzoogloeic\n\n### Label: True\n\n### Input:\nnondendroid!\n\n### Label: False\n\n### Input:\nthanatography!\n\n### Label: False\n\n### Input:\ncirriped!\n\n### Label: False\n\n### Input:\nintertransversary\n\n### Label: True\n\n### Input:\nsplatterer!\n\n### Label: False\n\n### Input:\nmuscologic!\n\n### Label: False\n\n### Input:\nschizomycetes!\n\n### Label: False\n\n### Input:\nnegrito!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  }
+]

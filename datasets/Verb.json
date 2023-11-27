@@ -1,0 +1,202 @@
+[
+  {
+    "text": "food",
+    "label": false
+  },
+  {
+    "text": "process",
+    "label": false
+  },
+  {
+    "text": "sleep",
+    "label": false
+  },
+  {
+    "text": "these",
+    "label": false
+  },
+  {
+    "text": "has",
+    "label": true
+  },
+  {
+    "text": "sheet",
+    "label": false
+  },
+  {
+    "text": "poor",
+    "label": false
+  },
+  {
+    "text": "pass",
+    "label": false
+  },
+  {
+    "text": "meet",
+    "label": false
+  },
+  {
+    "text": "molecule",
+    "label": false
+  },
+  {
+    "text": "win",
+    "label": false
+  },
+  {
+    "text": "hope",
+    "label": false
+  },
+  {
+    "text": "human",
+    "label": false
+  },
+  {
+    "text": "duck",
+    "label": false
+  },
+  {
+    "text": "carry",
+    "label": false
+  },
+  {
+    "text": "gold",
+    "label": false
+  },
+  {
+    "text": "horse",
+    "label": false
+  },
+  {
+    "text": "area",
+    "label": false
+  },
+  {
+    "text": "ear",
+    "label": false
+  },
+  {
+    "text": "quick",
+    "label": false
+  },
+  {
+    "text": "famous",
+    "label": false
+  },
+  {
+    "text": "inch",
+    "label": false
+  },
+  {
+    "text": "similar",
+    "label": false
+  },
+  {
+    "text": "thank",
+    "label": false
+  },
+  {
+    "text": "major",
+    "label": false
+  },
+  {
+    "text": "vowel",
+    "label": false
+  },
+  {
+    "text": "please",
+    "label": false
+  },
+  {
+    "text": "lost",
+    "label": true
+  },
+  {
+    "text": "father",
+    "label": false
+  },
+  {
+    "text": "card",
+    "label": false
+  },
+  {
+    "text": "cool",
+    "label": false
+  },
+  {
+    "text": "huge",
+    "label": false
+  },
+  {
+    "text": "white",
+    "label": false
+  },
+  {
+    "text": "continue",
+    "label": false
+  },
+  {
+    "text": "noise",
+    "label": false
+  },
+  {
+    "text": "knew",
+    "label": false
+  },
+  {
+    "text": "cow",
+    "label": false
+  },
+  {
+    "text": "held",
+    "label": false
+  },
+  {
+    "text": "girl",
+    "label": false
+  },
+  {
+    "text": "use",
+    "label": false
+  },
+  {
+    "text": "key",
+    "label": false
+  },
+  {
+    "text": "for",
+    "label": false
+  },
+  {
+    "text": "cut",
+    "label": false
+  },
+  {
+    "text": "soon",
+    "label": false
+  },
+  {
+    "text": "operate",
+    "label": false
+  },
+  {
+    "text": "two",
+    "label": false
+  },
+  {
+    "text": "earth",
+    "label": false
+  },
+  {
+    "text": "mean",
+    "label": false
+  },
+  {
+    "text": "thought",
+    "label": false
+  },
+  {
+    "text": "stay",
+    "label": false
+  }
+]
