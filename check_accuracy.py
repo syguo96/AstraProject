@@ -12,7 +12,7 @@ def compute_accuracy(dataset):
         if str(pred) == str(label):
             acc += 1
     acc /= len(labels)
-    print(f'Accuracy: {acc}')
+    return acc
 
 datasets = ['odd_even',
             'Sums',
@@ -27,5 +27,5 @@ datasets = ['odd_even',
             'Verb',
             'Longer']
 for dataset in datasets:
-    print('Dataset', dataset)
-    compute_accuracy(dataset)
+    acc = compute_accuracy(dataset)
+    print(f'Dataset: {dataset} | Accuracy: {acc}')

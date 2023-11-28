@@ -6,15 +6,20 @@ def save_outputs(inputs, labels, prompts, preds, args):
         out_path.mkdir(parents=True, exist_ok=True)
 
     res = []
-    for input, label, prompt, pred in zip(inputs, labels, prompts, preds):
-        res.append({
-            'input': input,
-            'prompt': prompt,
-            'pred': pred,
-            'label': label
-        })
-    with open(out_path / "results.json", "w", encoding="utf-8") as f:
-        json.dump(res, f, indent=2)
+    if 'articulation' in args.form:
+        for prompt, pred in zip(prompts, preds):
+            res.append({'prompt': prompt, 'pred': pred})
+    else:
+        for input, label, prompt, pred in zip(inputs, labels, prompts, preds):
+            res.append({
+                'input': input,
+                'prompt': prompt,
+                'pred': pred,
+                'label': label
+            })
+
+    with open(out_path / f"{args.form}_results.json", "w", encoding="utf-8") as f:
+            json.dump(res, f, indent=2)
 
     with open(out_path / "generation_params.json", "w", encoding="utf-8") as f:
         params = {

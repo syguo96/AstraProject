@@ -1,202 +1,202 @@
 [
   {
-    "text": "8 2 ... 10",
-    "label": true
-  },
-  {
-    "text": "5 6 ... 7",
+    "text": "(7 operator 6) =8",
     "label": false
   },
   {
-    "text": "7 9 ... 16",
-    "label": true
-  },
-  {
-    "text": "0 7 ... 7",
-    "label": true
-  },
-  {
-    "text": "5 1 ... 6",
-    "label": true
-  },
-  {
-    "text": "7 5 ... 12",
-    "label": true
-  },
-  {
-    "text": "7 8 ... 15",
-    "label": true
-  },
-  {
-    "text": "4 0 ... 0",
+    "text": "(8 operator 3) =12",
     "label": false
   },
   {
-    "text": "9 2 ... 11",
-    "label": true
-  },
-  {
-    "text": "1 10 ... 11",
-    "label": true
-  },
-  {
-    "text": "4 5 ... 9",
-    "label": true
-  },
-  {
-    "text": "5 10 ... 12",
+    "text": "(5 operator 3) =12",
     "label": false
   },
   {
-    "text": "6 4 ... 10",
+    "text": "(10 operator 1) =11",
     "label": true
   },
   {
-    "text": "3 5 ... 8",
-    "label": true
-  },
-  {
-    "text": "7 4 ... 4",
+    "text": "(6 operator 4) =18",
     "label": false
   },
   {
-    "text": "7 0 ... 7",
+    "text": "(5 operator 4) =9",
     "label": true
   },
   {
-    "text": "0 2 ... 2",
-    "label": true
-  },
-  {
-    "text": "10 9 ... 19",
-    "label": true
-  },
-  {
-    "text": "4 9 ... 13",
-    "label": true
-  },
-  {
-    "text": "8 7 ... 15",
-    "label": true
-  },
-  {
-    "text": "7 1 ... 18",
+    "text": "(9 operator 10) =2",
     "label": false
   },
   {
-    "text": "8 9 ... 17",
+    "text": "(0 operator 3) =3",
     "label": true
   },
   {
-    "text": "2 8 ... 18",
+    "text": "(6 operator 6) =12",
+    "label": true
+  },
+  {
+    "text": "(2 operator 2) =4",
+    "label": true
+  },
+  {
+    "text": "(10 operator 10) =20",
+    "label": true
+  },
+  {
+    "text": "(8 operator 2) =10",
+    "label": true
+  },
+  {
+    "text": "(4 operator 4) =19",
     "label": false
   },
   {
-    "text": "0 10 ... 6",
+    "text": "(8 operator 0) =8",
+    "label": true
+  },
+  {
+    "text": "(2 operator 5) =19",
     "label": false
   },
   {
-    "text": "10 4 ... 14",
+    "text": "(7 operator 1) =8",
     "label": true
   },
   {
-    "text": "4 5 ... 13",
+    "text": "(2 operator 9) =4",
     "label": false
   },
   {
-    "text": "0 2 ... 11",
+    "text": "(10 operator 1) =0",
     "label": false
   },
   {
-    "text": "1 5 ... 6",
+    "text": "(10 operator 5) =15",
     "label": true
   },
   {
-    "text": "9 8 ... 18",
+    "text": "(4 operator 0) =4",
+    "label": true
+  },
+  {
+    "text": "(9 operator 2) =11",
+    "label": true
+  },
+  {
+    "text": "(10 operator 6) =16",
+    "label": true
+  },
+  {
+    "text": "(4 operator 7) =11",
+    "label": true
+  },
+  {
+    "text": "(1 operator 7) =7",
     "label": false
   },
   {
-    "text": "2 3 ... 6",
+    "text": "(6 operator 1) =7",
+    "label": true
+  },
+  {
+    "text": "(10 operator 0) =2",
     "label": false
   },
   {
-    "text": "9 6 ... 15",
+    "text": "(3 operator 7) =10",
     "label": true
   },
   {
-    "text": "3 9 ... 2",
+    "text": "(8 operator 0) =8",
+    "label": true
+  },
+  {
+    "text": "(8 operator 10) =18",
+    "label": true
+  },
+  {
+    "text": "(9 operator 5) =0",
     "label": false
   },
   {
-    "text": "8 6 ... 14",
+    "text": "(9 operator 7) =16",
     "label": true
   },
   {
-    "text": "4 7 ... 11",
+    "text": "(3 operator 10) =13",
     "label": true
   },
   {
-    "text": "9 0 ... 9",
-    "label": true
-  },
-  {
-    "text": "0 10 ... 10",
-    "label": true
-  },
-  {
-    "text": "5 6 ... 11",
-    "label": true
-  },
-  {
-    "text": "5 5 ... 10",
-    "label": true
-  },
-  {
-    "text": "8 4 ... 15",
+    "text": "(2 operator 8) =11",
     "label": false
   },
   {
-    "text": "9 1 ... 3",
+    "text": "(9 operator 8) =17",
+    "label": true
+  },
+  {
+    "text": "(3 operator 1) =4",
+    "label": true
+  },
+  {
+    "text": "(2 operator 10) =9",
     "label": false
   },
   {
-    "text": "1 4 ... 5",
+    "text": "(10 operator 10) =20",
     "label": true
   },
   {
-    "text": "6 3 ... 17",
+    "text": "(3 operator 5) =8",
+    "label": true
+  },
+  {
+    "text": "(10 operator 8) =18",
+    "label": true
+  },
+  {
+    "text": "(1 operator 7) =8",
+    "label": true
+  },
+  {
+    "text": "(10 operator 6) =16",
+    "label": true
+  },
+  {
+    "text": "(7 operator 5) =12",
+    "label": true
+  },
+  {
+    "text": "(8 operator 4) =12",
+    "label": true
+  },
+  {
+    "text": "(4 operator 8) =5",
     "label": false
   },
   {
-    "text": "8 10 ... 5",
+    "text": "(8 operator 2) =10",
+    "label": true
+  },
+  {
+    "text": "(10 operator 7) =17",
+    "label": true
+  },
+  {
+    "text": "(2 operator 1) =0",
     "label": false
   },
   {
-    "text": "7 5 ... 12",
-    "label": true
-  },
-  {
-    "text": "10 3 ... 13",
-    "label": true
-  },
-  {
-    "text": "1 6 ... 7",
-    "label": true
-  },
-  {
-    "text": "0 3 ... 18",
+    "text": "(0 operator 5) =0",
     "label": false
   },
   {
-    "text": "10 2 ... 12",
+    "text": "(6 operator 4) =10",
     "label": true
   },
   {
-    "text": "8 7 ... 7",
+    "text": "(8 operator 9) =2",
     "label": false
-  },
-  {
-    "text": "10 5 ... 15",
-    "label": true
   }
 ]

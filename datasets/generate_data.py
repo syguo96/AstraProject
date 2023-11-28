@@ -103,7 +103,7 @@ def Sums(nsamples, is_example=False):
     i2 = [random.randint(0, 10) for j in range(nsamples)]
     r = [random.randint(0, 20) for j in range(nsamples)]
     a__ = [(str(i1[j] + i2[j]) if random.choice([True, False]) else str(r[j])) for j in range(nsamples)]
-    s = [str(i1[j]) + ' ' + str(i2[j]) + ' ... ' + a__[j] for j in range(nsamples)]
+    s = [ '(' + str(i1[j]) + ' operator ' + str(i2[j]) + ') =' + a__[j] for j in range(nsamples)]
     l = [a__[j] == str(i1[j] + i2[j]) for j in range(nsamples)]
     res = []
     for text, label in zip(s, l):
@@ -174,11 +174,13 @@ def Verb(nsamples, is_example=False):
 
 
 def endsWithExclamation(samples, is_example=False):
-    from english_words import get_english_words_set
-    web2lowerset = get_english_words_set(['web2'], lower=True)
+    # from english_words import get_english_words_set
+    # web2lowerset = get_english_words_set(['web2'], lower=True)
+    words = GetCommonWords()
     res = []
     for _ in range(samples):
-        word = random.choice(list(web2lowerset))
+        word = random.choice(words)
+        # word = random.choice(list(web2lowerset))
         if random.choice([True, False]):
             text = word
             label = 'True'
@@ -237,14 +239,14 @@ def Questions(nsamples, is_example=False):
 
 # lowercase_true_uppercase_false(50)
 # lowercase_true_uppercase_false(20, is_example=True)
-# odd_even(50)
-# odd_even(20, is_example=True)
+odd_even(50)
+odd_even(50, is_example=True)
 #endsWithExclamation(50)
 #endsWithExclamation(20, is_example=True)
 # res = odd_even(100)
 # print(res)
-Sums(50)
-Sums(50, is_example=True)
+# Sums(50)
+# Sums(50, is_example=True)
 #Longer(50)
 #Longer(50, is_example=True)
 #Note: 20 in-context examples are not enough for Noun and Verb, it needs 50.
@@ -254,8 +256,8 @@ Sums(50, is_example=True)
 # Verb(50, is_example=True)
 # Love(50)
 # Love(50, is_example=True)
-# Apple(50)
-# Apple(50, is_example=True)
+Apple(50)
+Apple(100, is_example=True)
 # Walnut(50)
 # Walnut(50, is_example=True)
 #SentenceLength(50)

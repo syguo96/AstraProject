@@ -25,13 +25,14 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--model", default='gpt-3.5-turbo', type=str)
 parser.add_argument("--out_dir", default='outputs/', type=str)
-parser.add_argument("--dataset", default='Sums', type=str)
-parser.add_argument("--form", default='alpaca', type=str)
+parser.add_argument("--dataset", default='endsWithExclamation', type=str)
+parser.add_argument("--form", default='articulation_step', type=str)
 parser.add_argument("--shots", default=8, type=int)
 parser.add_argument("--verbose", action='store_true', default=True)
 parser.add_argument("--temperature", default=0.5, type=float)
 parser.add_argument("--max_tokens", default=256, type=int)
 parser.add_argument("--system_prompt", default='You are a helpful assistant.', type=str)
+parser.add_argument("--nexperiments", default=10, type=int)
 # parser.add_argument("--cot_backup", action='store_true', default=False)
 
 args = parser.parse_args()
@@ -63,21 +64,27 @@ def main():
     logger = logging.getLogger(__name__)
     inputs, labels = data_reader(args.dataset)
     # set up output directory
-    args.out_dir = args.out_dir + f"textgen-{args.model}-{args.dataset}".replace(".", "-")
+    args.out_dir = args.out_dir + f"textgen-{args.model}-{args.dataset}-{args.form}".replace(".", "-")
     logger.info(f"Saving output to {args.out_dir}...")
     logger.info(f"Generating text for {args.dataset} using model:\t{args.model}...")
     used_examples = get_examples(args.dataset)
     prompt_no_input, prefix = get_prompt(used_examples, form=args.form)
-    if args.form == 'articulation':
-        outputs = chat_completion(
-            prompt=prompt_no_input,
-            model=args.model,
-            system_prompt=args.system_prompt,
-            temperature=args.temperature,
-            max_tokens=args.max_tokens,
-        )
-        if args.verbose:
-            print(f'Input: {prompt_no_input} | Output: {outputs[0]} ')
+    if 'articulation' in args.form:
+        prompts = []
+        gens = []
+        for i in range(args.nexperiments):
+            outputs = chat_completion(
+                prompt=prompt_no_input,
+                model=args.model,
+                system_prompt=args.system_prompt,
+                temperature=args.temperature,
+                max_tokens=args.max_tokens,
+            )
+            if args.verbose:
+                print(f'Input: {prompt_no_input} | Output: {outputs[0]} ')
+            prompts.append(prompt_no_input)
+            gens.append(outputs[0])
+        save_outputs(None, None, prompts, gens, args)
     else:
         prompts = []
         preds = []
