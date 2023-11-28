@@ -1,0 +1,302 @@
+[
+  {
+    "input": "shoulder",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nshoulder\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "chart!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nchart!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "busy",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nbusy\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "than!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nthan!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "century",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncentury\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "man!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nman!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "of",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nof\n\n### Label:",
+    "pred": "False",
+    "label": "True"
+  },
+  {
+    "input": "describe",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ndescribe\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "forward!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nforward!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "raise",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nraise\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "city",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncity\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "if",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nif\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "coat!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncoat!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "hand",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nhand\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "path",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\npath\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "as",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nas\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "suffix!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nsuffix!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "dark!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ndark!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "village!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nvillage!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "must!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nmust!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "nature",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nnature\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "garden",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ngarden\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "face!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nface!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "object!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nobject!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "cell!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncell!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "loud!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nloud!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "yes",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nyes\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "ask",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nask\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "boat!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nboat!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "through",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nthrough\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "course!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncourse!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "month",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nmonth\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "beat!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nbeat!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "invent",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ninvent\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "fun",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nfun\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "stick",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nstick\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "this!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nthis!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "begin!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nbegin!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "say",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nsay\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "land!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nland!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "perhaps!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nperhaps!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "certain",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ncertain\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "sell",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nsell\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "yard!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nyard!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "fit!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nfit!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "meant!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nmeant!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  },
+  {
+    "input": "left",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nleft\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "two",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\ntwo\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "hold",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nhold\n\n### Label:",
+    "pred": "True",
+    "label": "True"
+  },
+  {
+    "input": "end!",
+    "prompt": "Below is a classification task given input text and label the text with True or False. \n### Input:\ndrink\n\n### Label: True\n\n### Input:\nanger\n\n### Label: True\n\n### Input:\ncollect!\n\n### Label: False\n\n### Input:\ngrand\n\n### Label: True\n\n### Input:\npoor!\n\n### Label: False\n\n### Input:\nhold!\n\n### Label: False\n\n### Input:\nplanet\n\n### Label: True\n\n### Input:\nshow!\n\n### Label: False\n\n### Input:\nwood!\n\n### Label: False\n\n### Input:\nsurface!\n\n### Label: False\n\n### Input:\nmelody!\n\n### Label: False\n\n### Input:\nfresh!\n\n### Label: False\n\n### Input:\nnorth\n\n### Label: True\n\n### Input:\nwon't!\n\n### Label: False\n\n### Input:\neither\n\n### Label: True\n\n### Input:\nisland!\n\n### Label: False\n\n### Input:\ncountry!\n\n### Label: False\n\n### Input:\nsmall!\n\n### Label: False\n\n### Input:\nyoung!\n\n### Label: False\n\n### Input:\ndoor\n\n### Label: True\n\n### Input:\nend!\n\n### Label:",
+    "pred": "False",
+    "label": "False"
+  }
+]

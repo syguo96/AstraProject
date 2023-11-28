@@ -1,0 +1,82 @@
+[
+  {
+    "text": "every!",
+    "label": "False"
+  },
+  {
+    "text": "student!",
+    "label": "False"
+  },
+  {
+    "text": "evening",
+    "label": "True"
+  },
+  {
+    "text": "state",
+    "label": "True"
+  },
+  {
+    "text": "part!",
+    "label": "False"
+  },
+  {
+    "text": "instant",
+    "label": "True"
+  },
+  {
+    "text": "case",
+    "label": "True"
+  },
+  {
+    "text": "safe!",
+    "label": "False"
+  },
+  {
+    "text": "never!",
+    "label": "False"
+  },
+  {
+    "text": "son!",
+    "label": "False"
+  },
+  {
+    "text": "suggest",
+    "label": "True"
+  },
+  {
+    "text": "fly",
+    "label": "True"
+  },
+  {
+    "text": "total",
+    "label": "True"
+  },
+  {
+    "text": "fine",
+    "label": "True"
+  },
+  {
+    "text": "bank",
+    "label": "True"
+  },
+  {
+    "text": "he!",
+    "label": "False"
+  },
+  {
+    "text": "trade",
+    "label": "True"
+  },
+  {
+    "text": "science",
+    "label": "True"
+  },
+  {
+    "text": "cell",
+    "label": "True"
+  },
+  {
+    "text": "far",
+    "label": "True"
+  }
+]

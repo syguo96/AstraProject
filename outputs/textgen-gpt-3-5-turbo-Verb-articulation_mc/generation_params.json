@@ -1,0 +1,9 @@
+{
+    "model": "gpt-3.5-turbo",
+    "dataset": "Verb",
+    "temperature": 0.5,
+    "max_tokens": 256,
+    "system_prompt": "You are a helpful assistant.",
+    "form": "articulation_mc",
+    "verbose": true
+}
