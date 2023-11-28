@@ -11,3 +11,5 @@ modes of evaluation:
 dataset: need to specify dataset task 
 
 api_key: need to specify openAI api key 
+
+Output records: see /outputs folder 
